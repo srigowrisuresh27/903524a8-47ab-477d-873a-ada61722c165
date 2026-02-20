@@ -5,6 +5,10 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSubsequence", "LongestIncreasingSubsequence\LongestIncreasingSubsequence.csproj", "{524EC762-513C-48C1-8002-2D7683CB89F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LIS.Service", "LIS.Service\LIS.Service.csproj", "{BA2EC2E2-B13C-42FB-9E75-2C883991E6C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTest", "LISTest\LISTest.csproj", "{C3385E7D-8F87-429B-BF28-BEE8AF499124}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{524EC762-513C-48C1-8002-2D7683CB89F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{524EC762-513C-48C1-8002-2D7683CB89F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{524EC762-513C-48C1-8002-2D7683CB89F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2EC2E2-B13C-42FB-9E75-2C883991E6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2EC2E2-B13C-42FB-9E75-2C883991E6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2EC2E2-B13C-42FB-9E75-2C883991E6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2EC2E2-B13C-42FB-9E75-2C883991E6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3385E7D-8F87-429B-BF28-BEE8AF499124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3385E7D-8F87-429B-BF28-BEE8AF499124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3385E7D-8F87-429B-BF28-BEE8AF499124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3385E7D-8F87-429B-BF28-BEE8AF499124}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
